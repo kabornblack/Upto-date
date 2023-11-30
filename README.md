@@ -28,9 +28,6 @@ After starting the application, you can access it at http://localhost:3000 in yo
 ## Contributing
 Contributions are welcome! 
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Technology 
 * HTML/CSS for markup structure and styling
 * JavaScript for the frontend
